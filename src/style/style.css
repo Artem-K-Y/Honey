@@ -23,7 +23,7 @@ h1, h2, h3, p, a{
     align-items: center;
     flex-wrap: wrap;
 }
-.container{
+.box{
     max-width: 1500px;
     width: 100%;
     display: flex;
