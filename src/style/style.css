@@ -133,8 +133,10 @@ h1, h2, h3, p, a{
     background: #000000;
 }
 .partners{
+    max-width: 1293px;
+    width: 100%;
     margin-top: 130px;
-    padding-left: 177px;
+    margin-left: 177px;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
